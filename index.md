@@ -1,45 +1,32 @@
 # Surf Window Support
 
-Surf Window helps you decide when it’s worth surfing—fast.
+Need help with Surf Window? We’re here to help.
 
 ## Contact
-If you need help, please email: **YOUR_SUPPORT_EMAIL**
-(Replace with your email, e.g. support@yourdomain.com)
+- Email: [68183830@qq.com](mailto:68183830@qq.com)
+- Response time: 1–3 business days
 
-## FAQ
+## Frequently Asked Questions
 
 ### 1) How do I add or remove favorite spots?
-- Open **Manage Spots**
-- Tap **+** to add a spot (up to 3 favorites)
-- Tap **×** to remove a favorite
+Open **Today** → tap the **pin** icon → manage your favorite spots (up to 3).
 
-### 2) Why can’t I add more than 3 spots?
-Surf Window is designed for fast decisions. The MVP supports up to **3** favorite spots for clarity and speed.
+### 2) Alerts are not coming through. What should I check?
+- Open iOS **Settings** → **Notifications** → **Surf Window** → enable **Allow Notifications**
+- In Surf Window → **Settings** → ensure alerts are enabled
+- Make sure Focus/Do Not Disturb is not blocking notifications
 
-### 3) How does “Go / Maybe / No” work?
-The decision is calculated from:
-- Your rules (minimum wave height, tide preference)
-- The current forecast for the selected spot  
-You can change rules anytime in **Adjust Rules**.
+### 3) Why does the app show “No data” or outdated conditions?
+- Check your network connection
+- Try refresh (or reopen the app)
+- If you’re offline, the app may show cached data
 
-### 4) Alerts are not working. What should I do?
-1. Open **Settings** → **Notifications**
-2. Make sure notifications are **Allowed**
-3. If denied, tap **Open Settings** to enable notifications
-4. Re-enable your alert in **Alerts** tab
+### 4) How do I change wave height / tide preference rules?
+Open **Today** → tap **Adjust Rules** → update Wave Height and Tide Preference → **Save Rules**.
 
-### 5) Location permission: why do you need it?
-Location is used only to show nearby surf spots. If you don’t allow location access, you can still use the app by selecting spots manually.
+### 5) How do I cancel my subscription?
+Subscriptions are managed by Apple. Open iOS **Settings** → **Apple ID** → **Subscriptions** → **Surf Window** → Cancel.
 
-### 6) Offline mode / weak signal
-When Offline Mode is enabled, Surf Window will show cached results (if available).
-
-## Troubleshooting
-- Restart the app
-- Check your internet connection (if Offline Mode is off)
-- Update to the latest version from the App Store
-
-## Privacy
-Surf Window does not require an account.  
-For privacy details, see: **PRIVACY_POLICY_URL**
-(Replace with your privacy policy URL)
+## Legal
+- Privacy Policy: https://garylee11.github.io/surf-window-support/privacy.html
+- Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
